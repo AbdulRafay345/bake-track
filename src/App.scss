@@ -1,0 +1,12 @@
+@import "./scss/bootstarp";
+
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+
+    main {
+        flex-grow: 1;
+    }
+}
